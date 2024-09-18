@@ -1,0 +1,2 @@
+# rabbit_ngauserfilt
+chrome插件，于NGA论坛的帖子列表中屏蔽指定用户帖子
